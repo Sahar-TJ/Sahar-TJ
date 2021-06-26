@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :zap: I love math, programming, data science, and books
+- 🌱 
+- :earth_africa: 
+- 📫 How to find me: 
+  - :bulb: [Medium articles]( )
+  - :pencil2: [Daily Tips]()
+  - :office: [LinkedIn]()
+  - :speaker: [Podcast](h)
+
+[![Sahar's github stats](https://github-readme-stats.vercel.app/api?username=Sahar-TJ&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-TJ)](https://github.com/anuraghazra/github-readme-stats)
