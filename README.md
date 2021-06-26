@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 - :zap: I love math, programming, data science, and books
 - 🌱 
@@ -25,9 +24,10 @@ Here are some ideas to get you started:
   - :pencil2: [Daily Tips]()
   - :office: [LinkedIn]()
   - :speaker: [Podcast](h)
+ -->
 
 [![Sahar's github stats](https://github-readme-stats.vercel.app/api?username=Sahar-TJ&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-TJ)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahar-TJ&show_icons=true&theme=algolia&hide_border=true&&count_private=true&include_all_commits=true" />
+
