@@ -38,28 +38,29 @@
 ### Reach out to me
 
 <p align="center">
-<img alt="Twitter" src="https://img.shields.io/twitter/follow/Sahar_TJ?color=%231DA1F2&label=Sahar_tj&logo=Twitter&style=for-the-badge"/>
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> 
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
-<img alt="Quora " src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/> 
-<img alt="Kaggle " src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> 
-<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-<img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://twitter.com/Sahar_TJ"><img alt="Twitter" src="https://img.shields.io/twitter/follow/Sahar_TJ?color=%231DA1F2&label=Sahar_tj&logo=Twitter&style=for-the-badge"/></a>
+<a href="sahartosif@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="Sahar_TJ#9462"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> 
+<a href="https://linkedin.com/in/sahar-tosif-jamal"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://github.com/Sahar-TJ "><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.quora.com/profile/Sahar-Tosif-Jamal"><img alt="Quora " src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/></a> 
+<a href="https://www.kaggle.com/sahartj"><img alt="Kaggle " src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
+<a href="https://sahar-tj.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCR90LZmvBInaeb9XxeNNgkg"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>  
 ---
 
 ### GitHub Stats
 
 ---
-
+<p align="center">
 <a href="https://github.com/Sahar-TJ/github-readme-stats">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahar-TJ&show_icons=true&theme=algolia&hide_border=true&custom_title=My%20GitHub%20Stats&include_all_commits=true" />
 </a>
 <a href="https://github.com/Sahar-TJ/github-readme-stats">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-TJ&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
 </a>
+</p>
 
 ---
 <!--START_SECTION:waka-->
