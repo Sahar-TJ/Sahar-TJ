@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahar-TJ&show_icons=true&theme=algolia&hide_border=true&custom_title=My%20GitHub%20Stats&include_all_commits=true" />
 </a>
 <a href="https://github.com/Sahar-TJ/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-TJ&langs_count=4&theme=algolia&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-TJ&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
 </a>
 
 ---
@@ -35,8 +35,4 @@ Here are some ideas to get you started:
   - :office: [LinkedIn]()
   - :speaker: [Podcast](h)
  -->
-
-[![Sahar's github stats](https://github-readme-stats.vercel.app/api?username=Sahar-TJ&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-TJ)](https://github.com/anuraghazra/github-readme-stats)
-
 
