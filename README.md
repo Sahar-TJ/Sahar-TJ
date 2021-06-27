@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Sahar-TJ/Sahar-TJ/blob/main/linkedin.png)
+![MasterHead](https://github.com/Sahar-TJ/Sahar-TJ/blob/main/STJ%20banner.png)
 
 <h1 align="center">Hi there, I am Sahar Tosif Jamal 👋</h1>
 
@@ -35,7 +35,8 @@
 </p>
 
 ---
-### Reach out to me
+
+### Stay updated with me
 
 <p align="center">
 <a href="https://twitter.com/Sahar_TJ"><img alt="Twitter" src="https://img.shields.io/twitter/follow/Sahar_TJ?color=%231DA1F2&label=Sahar_tj&logo=Twitter&style=for-the-badge"/></a>
@@ -48,6 +49,7 @@
 <a href="https://sahar-tj.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCR90LZmvBInaeb9XxeNNgkg"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>  
+
 ---
 
 ### GitHub Stats
@@ -58,7 +60,7 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahar-TJ&show_icons=true&theme=algolia&hide_border=true&custom_title=My%20GitHub%20Stats&include_all_commits=true" />
 </a>
 <a href="https://github.com/Sahar-TJ/github-readme-stats">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-TJ&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+  <img align="center" height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-TJ&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
 </a>
 </p>
 
@@ -68,6 +70,7 @@
 
 
 ---
+
 ### About me 
 
 - 🔭 I’m currently working on Data Science Projects
