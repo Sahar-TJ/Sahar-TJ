@@ -1,7 +1,8 @@
-## Hi there, I am Sahar Tosif Jamal 👋
+![MasterHead](https://github.com/Sahar-TJ/Sahar-TJ/blob/main/linkedin.png)
+
+<h1 align="center">Hi there, I am Sahar Tosif Jamal 👋</h1>
 ---
 
-<img align="left" width="400" alt="🦑" src="https://github.com/Sahar-TJ/Sahar-TJ/blob/main/metrics.plugin.isocalendar.svg">
 ---
 
 <a href="https://github.com/Sahar-TJ/github-readme-stats">
