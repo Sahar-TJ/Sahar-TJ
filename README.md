@@ -1,10 +1,10 @@
 ## Hi there, I am Sahar Tosif Jamal 👋
 ---
 <a href="https://github.com/Sahar-TJ/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahar-TJ&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahar-TJ&show_icons=true&theme=algolia&hide_border=true&custom_title=My%20GitHub%20Stats&include_all_commits=true" />
 </a>
 <a href="https://github.com/Sahar-TJ/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-TJ&langs_count=4&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-TJ&langs_count=4&theme=algolia&hide_border=true" />
 </a>
 
 ---
