@@ -54,7 +54,7 @@
 
 ### GitHub Stats
 
-<p align="center">
+<p>
 <a href="https://github.com/Sahar-TJ/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahar-TJ&show_icons=true&theme=algolia&hide_border=true&custom_title=My%20GitHub%20Stats&include_all_commits=true" />
 </a>
