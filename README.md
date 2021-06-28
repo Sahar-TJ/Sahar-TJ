@@ -2,11 +2,32 @@
 
 <h1 align="center">Hi there, I am Sahar Tosif Jamal 👋</h1>
 
----
 
 <h3 align="center">Polygot Coder | Data Science | Data Analysis </h3>
 
 ---
+
+### About me 
+
+- 🔭 I’m currently working on Data Science Projects
+- 🌱 I’m currently learning Tableau
+- 👯 I’m looking to collaborate on open source
+- 🤔 I’m looking for help with Projects
+- 💬 Ask me about Data
+- 😄 Pronouns: She / Her
+- ⚡ Fun fact: Love Photography and play Basketball 
+
+---
+
+### Accomplishments  
+
+- Google Data Analytics Professional Certificate
+- IBM Data Science Professional Certificate
+- Python for Everybody
+- Maths for Machine Learning
+
+---
+
 ### Languages and Tools
 
 <p align="center">
@@ -68,28 +89,7 @@
 <!--END_SECTION:waka-->
 
 
----
 
-### About me 
-
-- 🔭 I’m currently working on Data Science Projects
-- 🌱 I’m currently learning Tableau
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with Projects
-- 💬 Ask me about Data
-- 😄 Pronouns: She / Her
-- ⚡ Fun fact: Love Photography and play Basketball 
-
----
-
-### Accomplishments  
-
-- Google Data Analytics Professional Certificate
-- IBM Data Science Professional Certificate
-- Python for Everybody
-- Maths for Machine Learning
-
----
 <!--
 **Sahar-TJ/Sahar-TJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
