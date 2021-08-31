@@ -69,7 +69,7 @@
 <a href="https://www.kaggle.com/sahartj"><img alt="Kaggle " src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 <a href="https://sahar-tj.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCR90LZmvBInaeb9XxeNNgkg"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
- <a href="https://gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-sahartosif@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahartosif@gmail.com)](mailto:sahartosif@gmail.com"/></a>
+ <a href="https://gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-sahartosif@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sahartosif@gmail.com)](mailto:sahartosif@gmail.com"/></a>
   
 
   [![Gmail Badge](https://img.shields.io/badge/-sahartosif@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahartosif@gmail.com)](mailto:sahartosif@gmail.com)
