@@ -61,7 +61,7 @@
 
 <p align="center">
 <a href="https://twitter.com/Sahar_TJ"><img alt="Twitter" src="https://img.shields.io/twitter/follow/Sahar_TJ?color=%231DA1F2&label=Sahar_tj&logo=Twitter&style=for-the-badge"/></a>
- <a href="https://gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-sahartosif@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sahartosif@gmail.com)](mailto:sahartosif@gmail.com)"/></a>
+ <a href="https://gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-sahartosif@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sahartosif@gmail.com"/></a>
 <!--<a href="sahartosif@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>-->
 <a href="Sahar_TJ#9462"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> 
 <a href="https://linkedin.com/in/sahar-tosif-jamal"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
@@ -70,7 +70,7 @@
 <a href="https://www.kaggle.com/sahartj"><img alt="Kaggle " src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 <a href="https://sahar-tj.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCR90LZmvBInaeb9XxeNNgkg"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
- <a href="https://gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-sahartosif@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sahartosif@gmail.com)](mailto:sahartosif@gmail.com"/></a>
+<!-- <a href="https://gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-sahartosif@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sahartosif@gmail.com)](mailto:sahartosif@gmail.com"/></a> -->
 
 </p>  
 
