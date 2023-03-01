@@ -8,7 +8,7 @@
 ---
 
 ### About me 
-
+- ✨ I'm currently studying Master of Data Science
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning Tableau
 - 👯 I’m looking to collaborate on open source
