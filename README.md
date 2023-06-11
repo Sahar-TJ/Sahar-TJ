@@ -10,12 +10,10 @@
 ### About me 
 - ✨ I'm currently studying Master of Data Science
 - 🔭 I’m currently working on Data Science Projects
-- 🌱 I’m currently learning Tableau
 - 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with Projects
 - 💬 Ask me about Data
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: Love Photography and play Basketball 
+- ⚡ Fun fact: Love Photography and plays Basketball 
 
 ---
 
