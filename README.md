@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I am Sahar Tosif Jamal 👋</h1>
 
 
-<h3 align="center">Polygot Coder | Data Science | Data Analysis </h3>
+<h3 align="center">Polygot Coder | Data Science | Artificial Intelligence | Machine Learning | NLP </h3>
 
 ---
 
@@ -11,7 +11,7 @@
 - ✨ Graduated with Master of Data Science 
 - 🔭 I’m currently working on Data Science Projects
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about Data, AI, ML, DL
+- 💬 Ask me about Data, AI, ML, DL, NLP
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: Love Photography and plays Basketball, Have a diverse cultural background
 
