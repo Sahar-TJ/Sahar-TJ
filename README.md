@@ -8,17 +8,18 @@
 ---
 
 ### About me 
-- ✨ I'm currently studying Master of Data Science
+- ✨ Graduated with Master of Data Science 
 - 🔭 I’m currently working on Data Science Projects
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about Data
+- 💬 Ask me about Data, AI, ML, DL
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: Love Photography and plays Basketball 
+- ⚡ Fun fact: Love Photography and plays Basketball, Have a diverse cultural background
 
 ---
 
 ### Accomplishments  
 
+- Former Vice President & Female Ambassador of ![Big Data Society](https://data-science-group.github.io/BigDataSociety/) 
 - Google Data Analytics Professional Certificate
 - IBM Data Science Professional Certificate
 - Python for Everybody
