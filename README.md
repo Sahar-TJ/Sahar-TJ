@@ -19,7 +19,7 @@
 
 ### Accomplishments  
 
-- Former Vice President & Female Ambassador of ![Big Data Society](https://data-science-group.github.io/BigDataSociety/) 
+- Former Vice President & Female Ambassador of [Big Data Society](https://data-science-group.github.io/BigDataSociety/) 
 - Google Data Analytics Professional Certificate
 - IBM Data Science Professional Certificate
 - Python for Everybody
