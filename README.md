@@ -9,8 +9,8 @@
 
 ### About me 
 - ✨ Graduated with Master of Data Science 
-- 🔭 I’m currently working on Data Science Projects
-- 👯 I’m looking to collaborate on open source
+- 🔭 Currently using my data skills in Healthcare domain
+- 👯 Looking to collaborate on open source
 - 💬 Ask me about Data, AI, ML, DL, NLP
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: Love Photography and plays Basketball, Have a diverse cultural background
